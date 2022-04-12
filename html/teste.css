@@ -1,0 +1,57 @@
+
+.opçoes {
+    position:relative;
+    margin: 0 auto;
+}
+
+.anao {
+
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.cachorro {
+    float: right;
+    margin: 0 20px 20px 0;
+
+}
+
+.texto {
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: center;
+  
+}
+
+
+
+.titulo {
+    text-align: center;
+}
+
+.coringa {
+
+    float: left;
+    margin: 0 20px 20px 0;
+
+}
+
+.emoji {
+    float: right;
+    margin: 0 20px 20px 0;
+
+}
+
+
+.perguntas1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.select {
+    margin: 20px;
+}
+
+.titulo2 {
+    color: red;
+}

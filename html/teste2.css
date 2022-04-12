@@ -1,0 +1,32 @@
+.titulo {
+    text-align: center;
+    color: darkred;
+}
+
+.texto {
+
+    font-size: 20px;
+    padding-left: x;
+    text-align: center;
+}
+
+.rolha {
+
+    font-weight: bold;
+
+}
+
+.rock {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+
+
+
+
+.bob {
+    float: right;
+    margin: 0 20px 20px 0;
+}
+
